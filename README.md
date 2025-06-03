@@ -1,6 +1,6 @@
 # NYCU_OS_2023
 Course: Operating Systems (2023)  
-Instructor: Prof. Chun-Feng Wu, National Yang Ming Chiao Tung University
+Instructor: Prof. 吳俊峯, National Yang Ming Chiao Tung University
 
 ## HW1: Custom System Calls
 - Implement a basic **"Hello World" system call** in the Linux kernel.
